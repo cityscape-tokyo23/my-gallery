@@ -8,6 +8,7 @@ export default function Home() {
     { src: "/sample6.jpg", title: "River Mist", text: "キャプション例" },
     { src: "/sample7.jpg", title: "Morning Light", text: "初回テスト作品" },
     { src: "/sample8.jpg", title: "River Mist", text: "キャプション例" },
+    { src: "/sample9.jpg", title: "River Mist", text: "キャプション例" },
   ];
   return (
     <main style={{ maxWidth: 960, margin: "40px auto", padding: 24 }}>
